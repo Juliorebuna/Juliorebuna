@@ -1,5 +1,5 @@
 # 💫 About Me:
-O projeto em que atualmente estou trabalhando tem por nome "redescobrindo as maravilha do termux  O terminal"<br>
+O projeto em que atualmente estou trabalhando tem por nome "termux do zero"<br>
 
 
 ## 🌐 Socials:
